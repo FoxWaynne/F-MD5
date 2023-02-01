@@ -4,6 +4,7 @@
 ## INSTALAÇÃO 
 
 ```sh
+git clone https://github.com/FoxWaynne/F-MD5.git
 bash instalador.sh
 ```
 
