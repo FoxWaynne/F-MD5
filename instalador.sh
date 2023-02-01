@@ -1,4 +1,5 @@
 pip install pyfiglet
+pip install figlet
 pkg install figlet
 pip install lolcat
 python -m pip install -r requirements.txt
